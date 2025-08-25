@@ -7,7 +7,7 @@ export const theme = {
 
       primary: "#ffffff",
       buttonColor: "#ffffff",
-      minititleDark: "#ffffff", //bg minitag de seções claras
+      minititleDark: "#0B2E42", //bg minitag de seções claras
       minititle: "#ffffff", //bg minitag de seções escuras
 
       secondary: "#000000",
@@ -31,7 +31,7 @@ export const theme = {
       links: "#0189BB",
       iconButtons: "#000",
       labelButtons: "#000",
-      minititleLightLabel: "#000", //label das minitag de seções claras
+      minititleLightLabel: "#fff", //label das minitag de seções claras
       minititleDarkLabel: "#000", //label minitag de seções escuras
 
       // Sombras
