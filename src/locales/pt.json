@@ -18,12 +18,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO NO RIO DE JANEIRO E PARANÁ",
+    "title": "Sem defesa, você vira um <span class=\"text-primary font-bold\">alvo fácil</span>",
+    "subtitle": "Mais de 20 anos de advocacia transformando problemas em soluções jurídicas sólidas e seguras.",
+    "ctaButtonText": "Quero proteção agora",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento exclusivamente online via Zoom."
     }
   },
   "features": {
