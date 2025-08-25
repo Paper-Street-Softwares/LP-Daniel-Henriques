@@ -48,7 +48,7 @@ export default function Faq({ colorMode }) {
           <Paragraphs className={`text-center transition`}>
             <Button
               className="hoover:scale-0 desktop1:hover:scale-10 transition-all duration-300"
-              color="bg-[#0B2E42]"
+              color="bg-buttonColorDark"
               textclassName="text-white"
               label={t("faq.paragraph")}
               colorMode={colorMode}
