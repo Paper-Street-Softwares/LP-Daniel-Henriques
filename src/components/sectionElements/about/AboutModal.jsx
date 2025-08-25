@@ -26,7 +26,8 @@ export default function AboutModal() {
             aria-label={t("about.ctaButtonAriaLabel")}
             label={t("about.ctaButtonText")}
             animation={false}
-            className="hover:scale-105 bg-[#] "
+            className="hover:scale-105 "
+            color="bg-buttonColorDark"
             textclassName="text-white"
             icon={
               <svg
