@@ -151,11 +151,7 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                     desktop1:h-[400px] desktop1:min-w-[200px]
                     desktop2:h-[400px] desktop2:min-w-[400px]
                     bg-cover bg-no-repeat
-                    ${
-                      colorMode === "light"
-                        ? "desktop1:shadow-custom-opacity desktop1:shadow-shadowHero/10"
-                        : "shadow-custom-opacity shadow-shadowHero/10"
-                    }
+                  
                   `}
                   style={{
                     backgroundImage: `url(${content.texts.hero.heroDefaultImage})`,
