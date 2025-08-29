@@ -50,7 +50,7 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Dr. Daniel Henrique",
+  name: "Dr. Daniel Henriques",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "danielhlucas.com.br", // Sem "www"
